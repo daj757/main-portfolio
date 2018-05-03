@@ -5,7 +5,7 @@ import sea from '../images/restaurant.png'
 import sign from '../images/sign.jpg'
 import hamburger from '../images/hb.png'
 import groupie from '../images/groupie.png'
-import mine from '../images/jewel.png'
+import jewel from '../images/jewel.png'
 import code from '../images/code.jpg'
 
 const Portfolio = () => {
@@ -112,7 +112,7 @@ const Portfolio = () => {
           </Card>
           <Card raised={true}>
             <Image
-              src={mine}
+              src={jewel}
               href="https://daj757.github.io/week-4-game/"
               target="_blank"
             />
