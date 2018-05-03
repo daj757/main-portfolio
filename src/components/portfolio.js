@@ -5,7 +5,7 @@ import sea from '../images/restaurant.png'
 import sign from '../images/sign.jpg'
 import hamburger from '../images/hb.png'
 import groupie from '../images/groupie.png'
-import mine from '../images/jewel.PNG'
+import mine from '../images/jewel.png'
 import code from '../images/code.jpg'
 
 const Portfolio = () => {
