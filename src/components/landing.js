@@ -1,7 +1,7 @@
 import React from 'react'
 import { Container, Image, Responsive, Header } from 'semantic-ui-react'
-import desktop from '../images/desktop.jpg'
-import mobile from '../images/mobile.jpg'
+import desktop from '../../public/static/images/desktop.jpg'
+import mobile from '../../public/static/images/mobile.jpg'
 
 const Landing = () => {
   return (

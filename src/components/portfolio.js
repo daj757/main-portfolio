@@ -1,12 +1,12 @@
 import React from 'react'
 import { Container, Header, Card, Image } from 'semantic-ui-react'
-import blockchain from '../images/blockchain.jpg'
-import sea from '../images/restaurant.png'
-import sign from '../images/sign.jpg'
-import hamburger from '../images/hb.png'
-import groupie from '../images/groupie.png'
-import mine from '../images/jewel.png'
-import code from '../images/code.jpg'
+import blockchain from '../../public/static/images/blockchain.jpg'
+import sea from '../../public/static/images/restaurant.png'
+import sign from '../../public/static/images/sign.jpg'
+import hamburger from '../../public/static/images/hb.png'
+import groupie from '../../public/static/images/groupie.png'
+import mine from '../../public/static/images/jewel.png'
+import code from '../../public/static/images/code.jpg'
 
 const Portfolio = () => {
   return (

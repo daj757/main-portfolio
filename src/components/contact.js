@@ -8,7 +8,7 @@ import {
   Popup,
   Responsive,
 } from 'semantic-ui-react'
-import arrow from '../images/arrow.jpg'
+import arrow from '../../public/static/images/arrow.jpg'
 const Contact = () => {
   return (
     <div
