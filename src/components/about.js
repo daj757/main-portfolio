@@ -1,6 +1,6 @@
 import React from 'react'
-import snow from '../../public/static/images/snow.jpg'
-import me from '../../public/static/images/me.jpg'
+import snow from '../images/snow.jpg'
+import me from '../images/me.jpg'
 import { Header, Image, Responsive, Grid, Container } from 'semantic-ui-react'
 const About = () => {
   return (
